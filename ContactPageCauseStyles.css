@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 img { 
+=======
+img {
+>>>>>>> edbe4a951244bb495d31a4a38606de20260dd9e7
 	float: left;
 }
 h1 {
@@ -6,4 +10,11 @@ h1 {
 }
 .Donate-Button {
 	padding: 3em;
+<<<<<<< HEAD
 }
+=======
+}
+body {
+	background-color: lightblue;
+}
+>>>>>>> edbe4a951244bb495d31a4a38606de20260dd9e7
