@@ -10,3 +10,21 @@ h1 {
 body {
 	background-color: lightblue;
 }
+.navbar {
+	margin: 0px;
+}
+.img-responsive{
+ max-width: 100%;
+ height: auto;
+ display: block;
+}
+.container-fluid{
+ background-color: lightblue;
+}
+.one{
+ color: blue;
+ background-color: lightblue;
+}
+.progress {
+	text-align: center; height: 100%; margin: auto;
+}
