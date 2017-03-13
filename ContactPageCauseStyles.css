@@ -1,4 +1,4 @@
-img { 
+img {
 	float: left;
 }
 h1 {
@@ -6,4 +6,7 @@ h1 {
 }
 .Donate-Button {
 	padding: 3em;
+}
+body {
+	background-color: lightblue;
 }
