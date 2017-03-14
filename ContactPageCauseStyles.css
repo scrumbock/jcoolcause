@@ -1,12 +1,16 @@
 
 h1 {
 	text-align: center;
+	color: blue;
 }
 .Donate-Button {
 	padding: 3em;
 }
 body {
 	background-color: lightblue;
+}
+h4 {
+	color: darkblue;
 }
 .navbar {
 	margin: 0px;
@@ -19,10 +23,6 @@ body {
 .container-fluid{
  background-color: lightblue;
 }
-.one{
- color: blue;
- background-color: lightblue;
-}
 .progress {
-	width: 540px; height: 100%; max-width: 100%; margin: 0 auto; 
+	width: 540px; height: 100%; max-width: 100%; margin: 0 auto;
 }
